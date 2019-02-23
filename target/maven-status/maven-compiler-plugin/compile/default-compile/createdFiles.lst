@@ -1,6 +1,0 @@
-com/yoshallc/crm/entities/CustomerEntity.class
-com/yoshallc/crm/domains/Customer.class
-com/yoshallc/crm/Application.class
-com/yoshallc/crm/controllers/CustomerController.class
-com/yoshallc/crm/repositories/CustomerRepository.class
-com/yoshallc/crm/services/CustomerService.class
